@@ -15,7 +15,7 @@
 * 存粹的下载器[迅雷极速版7.10.34.360]( http://down.sandai.net/thunderspeed/ThunderSpeed1.0.34.360.exe)      
 * 翻墙必备[shadowsocks](https://github.com/shadowsocks)    
 * 自动搜索影片字幕，射手影音[splayer](http://www.splayer.org/)  
-* ~~自动调节电脑屏幕色温，为革命，保护视力[f.lux](https://justgetflux.com/)~~  win10创意者更新中已集成到系统  
+* 自动调节电脑屏幕色温，为革命，保护视力 ~~[f.lux](https://justgetflux.com/)~~  win10创意者更新中已集成到系统  
 * 定时提醒休息[护眼啦](http://www.443w.com/hu/) 
 * 像win10自带输入法一样文明的[加加输入法](http://dir.jjol.cn/Pyjj/index.aspx)，适用于win7/vista,虚拟机必备 
 * [7zip](http://www.7-zip.org/) 
