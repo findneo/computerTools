@@ -1,10 +1,11 @@
 
-[系统优化类](#系统优化类)  
-[开发类](#开发类)  
-[安全类](#安全类)
-[小工具](#小工具)
-[其他](#其他)
-* 系统优化类
+[系统优化类](#optimize)  
+[学习相关类](#study)
+[开发类](#dev)  
+[安全类](#sec)  
+[小工具](#mini)  
+[其他](#other)  
+* <h2 id="optimize">系统优化类</h2>
     * 本地文件搜索[everything](http://www.voidtools.com/)
     * 本地文档全文搜索[agentransack](https://www.mythicsoft.com/agentransack/download)
     * 轻量却强大的文本编辑器[notepad++](https://notepad-plus-plus.org/)
@@ -40,14 +41,14 @@
         * AutoProxy
         * NoScript
         * Live Http Header重放功能
-* 学习相关类
+* <h2 id="study">学习相关类</h2> 
     * [印象笔记](https://www.yinxiang.com/)
     * 小巧好用的pdf阅读器[sumatraPdf](https://www.sumatrapdfreader.org/free-pdf-reader.html)
     * [福昕(xin)pdf阅读器](https://www.foxitsoftware.cn/downloads/)
     * 开源好用的思维导图工具[freemind](https://sourceforge.net/projects/freemind/)
     * 离线词典[goldenDict](http://goldendict.org/)
     * [马克飞象](https://maxiang.io/)
-* 开发类
+* <h2 id="dev">开发类</h2> 
     * 感谢微软visual studio code
     * 配色风骚令人沉迷的代码编辑器[sublimeText](http://www.sublimetext.com/)
         * 插件HTML-CSS-JS Prettify
@@ -73,7 +74,7 @@
     * linux
         * fish shell
         * zsh shell
-* 安全类
+* <h2 id="sec">安全类</h2>
 	* winhex
     * advanced zip password recovery
     * ziperello
@@ -92,11 +93,11 @@
         * SEEDUbuntu
         * web for pentester
         * WebGoat-OWASP_standard_win32
-* 小工具
+* <h2 id="mini">小工具</h2>
 	* [微软的签名检查命令行工具sigcheck](https://technet.microsoft.com/en-us/sysinternals/bb897441.aspx)
 	* [微软的命令行校验工具fciv](https://support.microsoft.com/zh-cn/help/841290/availability-and-description-of-the-file-checksum-integrity-verifier-utility)
 	* HXD十六进制编辑器
-* 其他【未尝试或目前没有使用】
+* <h2 id="other">其他【未尝试或目前没有使用】</h2>
     * ubuntu下的护眼工具[eyerest](http://forum.ubuntu.org.cn/viewtopic.php?f=137&t=392969)
     * 右侧即时预览的markdown编辑器[markdownPad2](http://markdownpad.com/)
     * 所见即所得的markdown编辑器[typora](https://typora.io/)
