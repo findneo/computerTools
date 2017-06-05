@@ -1,5 +1,9 @@
 
 * 系统优化类
+    * [微软的签名检查命令行工具sigcheck](https://technet.microsoft.com/en-us/sysinternals/bb897441.aspx)
+	* [微软的命令行校验工具fciv](https://support.microsoft.com/zh-cn/help/841290/availability-and-description-of-the-file-checksum-integrity-verifier-utility)
+	* HXD十六进制编辑器
+	* [eyerest](http://forum.ubuntu.org.cn/viewtopic.php?f=137&t=392969)ubuntu下的护眼工具
     * 本地文件搜索，快速精准[everything](http://www.voidtools.com/)
     * 本地文档全文搜索[agentransack](https://www.mythicsoft.com/agentransack/download)/[filelocator](https://www.mythicsoft.com/filelocatorpro/download)，前者免费，日用足够；后者付费，功能更强。
     * 轻量却强大的文本编辑器[notepad++](https://notepad-plus-plus.org/)
@@ -19,6 +23,7 @@
     * 世界上最快的浏览器[chrome](http://www.google.cn/chrome/browser/desktop/index.html),能过墙的话用起来更舒心
         * 插件[github目录树查看](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
         * 插件[adblock](https://chrome.google.com/webstore/search/adblock)
+        * 插件cookiesmanager
         * 插件[tamperMonkey](http://tampermonkey.net/index.php?version=4.2.7&ext=dhdg&show=dhdg)
             * 脚本 [有道取词1.4](https://greasyfork.org/zh-CN/scripts/12758-youdaodict)
             * [自己探索](https://greasyfork.org/zh-CN/scripts/)
@@ -55,10 +60,18 @@
 
 * 开发与安全
     * winhex
+    * advanced zip password recovery
     * 010editor
     * 感谢微软visual studio code
     * 配色风骚令人沉迷的代码编辑器[sublimeText](http://www.sublimetext.com/)
         *  插件HTML-CSS-JS Prettify
+        *  Localization
+		* ConvertToUTF8　　支持 GBK, BIG5, EUC-KR, EUC-JP, Shift_JIS 等编码的插件
+		* Bracket Highlighter　　用于匹配括号，引号和html标签。对于很长的代码很有用。安装好之后，不需要设置插件会自动生效
+		* DocBlockr　　DocBlockr可以自动生成PHPDoc风格的注释。它支持的语言有Javascript, PHP, ActionScript, CoffeeScript, Java, Objective C, C, C++
+		* Emmet(Zen Coding)　　html:4s    快速生成HTML代码段的插件，强大到无与伦比，不知道的请自行google
+		* SideBar Enhancements
+		* https://github.com/jikeytang/sublime-text
     * devcpp
     * git
     * fiddler
