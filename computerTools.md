@@ -88,6 +88,8 @@
 * wireshark 
 * OD 
 * IDAPRO 
+* OWASP Mantra Janus
+* MoC en 0.3 Alpha
 * vmware 
     * kali 
     * 52pojie虚拟机 
