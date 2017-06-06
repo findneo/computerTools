@@ -9,7 +9,10 @@
 
 * 本地文件搜索[everything](http://www.voidtools.com/)
 * 本地文档全文搜索[agentransack](https://www.mythicsoft.com/agentransack/download)  
-* 轻量却强大的文本编辑器[notepad++](https://notepad-plus-plus.org/)  
+* 轻量却强大的文本编辑器[notepad++](https://notepad-plus-plus.org/) 
+	* markdownviewer++
+	* php autocompletion
+	* emmet
 * Resilio Sync 就像，不限容，不限速，无审查的云盘  
 * 程序彻底卸载[iobitUninstaller](https://iobit-uninstaller.en.softonic.com/)  
 * 存粹的下载器[迅雷极速版7.10.34.360]( http://down.sandai.net/thunderspeed/ThunderSpeed1.0.34.360.exe)      
