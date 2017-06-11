@@ -26,15 +26,12 @@
 * 世界上最快的浏览器[chrome](http://www.google.cn/chrome/browser/desktop/index.html),能过墙的话用起来更舒心  
     * [github目录树查看](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)  
     * [adblock](https://chrome.google.com/webstore/search/adblock)  
-    * cookiesmanager   
-    
-    * [listen1](https://github.com/listen1/listen1_chrome_extension)集成多平台歌源，下载压缩包并解压后以chrome开发者模式加载    
-    
-    * [tamperMonkey](http://tampermonkey.net/index.php?version=4.2.7&ext=dhdg&show=dhdg)   
+    * cookiesmanager  
+	* [listen1](https://github.com/listen1/listen1_chrome_extension)集成多平台歌源，下载压缩包并解压后以chrome开发者模式加载
+	* [tamperMonkey](http://tampermonkey.net/index.php?version=4.2.7&ext=dhdg&show=dhdg)
         * 脚本 [有道取词1.4](https://greasyfork.org/zh-CN/scripts/12758-youdaodict)  
-        * [自己探索](https://greasyfork.org/zh-CN/scripts/) 
-	
-* firefox  
+        * [自己探索](https://greasyfork.org/zh-CN/scripts/)
+* firefox
     * 印象笔记  
     * [GreasyMonkey](https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/?src=search)   
         * 脚本[有道取词1.4](https://greasyfork.org/zh-CN/scripts/12758-youdaodict)  
