@@ -63,6 +63,7 @@
 * visual studio code 
 * [sublimeText](http://www.sublimetext.com/) 
     * 插件HTML-CSS-JS Prettify 
+	* jedi ：python自动补全
     * Localization汉化 
     * ConvertToUTF8解决编码问题 
     * Bracket Highlighter匹配括号，引号和html标签。 
