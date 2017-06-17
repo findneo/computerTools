@@ -11,10 +11,11 @@
 * 本地文件搜索[everything](http://www.voidtools.com/)
 * 本地文档全文搜索[agentransack](https://www.mythicsoft.com/agentransack/download)  
 * 轻量却强大的文本编辑器[notepad++](https://notepad-plus-plus.org/) 
-	* markdownviewer++
+	* markdownviewer++可能是我用得最满意的md编辑器了 
 	* php autocompletion
 	* emmet
 * Resilio Sync 就像，不限容，不限速，无审查的云盘  
+* teleport ultra全站克隆到本地 
 * 程序彻底卸载[iobitUninstaller](https://iobit-uninstaller.en.softonic.com/)  
 * 存粹的下载器[迅雷极速版7.10.34.360]( http://down.sandai.net/thunderspeed/ThunderSpeed1.0.34.360.exe)      
 * 翻墙必备[shadowsocks](https://github.com/shadowsocks)    
@@ -55,10 +56,12 @@
 * 开源好用的思维导图工具[freemind](https://sourceforge.net/projects/freemind/) 
 * 离线词典[goldenDict](http://goldendict.org/) 
 * [马克飞象](https://maxiang.io/) 
+* todotxt，纯文本GTD工具，纯键盘操作 
+* calibre 书籍管理，azw阅读器很棒 
 <h2 id="dev">开发类</h2>  
 
-* 感谢微软visual studio code 
-* 配色风骚令人沉迷的代码编辑器[sublimeText](http://www.sublimetext.com/) 
+* visual studio code 
+* [sublimeText](http://www.sublimetext.com/) 
     * 插件HTML-CSS-JS Prettify 
     * Localization汉化 
     * ConvertToUTF8解决编码问题 
@@ -87,7 +90,9 @@
 * winhex 
 * advanced zip password recovery 
 * ziperello 
-* 010editor御剑 
+* 010editor
+* 御剑 
+* nmap
 * sqlmap 
 * burpsuite 
 * wireshark 
@@ -95,8 +100,11 @@
 * IDAPRO 
 * OWASP Mantra Janus
 * MoC en 0.3 Alpha
+* seay代码审计系统
+* virtual box开源的虚拟机软件，内存占用较小
 * vmware 
     * kali 
+	* backtrack 
     * 52pojie虚拟机 
     * xampp+dvwa 
     * Metasploitable-linux 
