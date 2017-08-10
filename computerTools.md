@@ -22,6 +22,7 @@
 * 自动搜索影片字幕，射手影音[splayer](http://www.splayer.org/)  
 * 自动调节电脑屏幕色温，为革命，保护视力 ~~[f.lux](https://justgetflux.com/)~~  win10创意者更新中已集成到系统  
 * 定时提醒休息[护眼啦](http://www.443w.com/hu/) 
+* 邮箱客户端 foxmail
 * 像win10自带输入法一样文明的[加加输入法](http://dir.jjol.cn/Pyjj/index.aspx)，适用于win7/vista,虚拟机必备 
 * [7zip](http://www.7-zip.org/) 
 * win10锁屏壁纸存放的文件夹(C:\Users\ReplaceMeWithYourUsername\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets) 
@@ -58,6 +59,11 @@
 * [马克飞象](https://maxiang.io/) 
 * todotxt，纯文本GTD工具，纯键盘操作 
 * calibre 书籍管理，azw阅读器很棒 
+* 知识管理[myBase](http://www.wjjsoft.com/index_chs.html)
+* 离线文档查询[zeal](https://zealdocs.org/)
+* Cisco Packet Tracer Student，路由模拟器
+* GNS3 数据通信模拟器
+
 <h2 id="dev">开发类</h2>  
 
 * visual studio code 
@@ -72,9 +78,10 @@
     * https://github.com/jikeytang/sublime-text 
 * devcpp 
 * git 
-* fiddler 
 * winscp 
+* real VNC
 * xshell 
+* secureCRT
 * putty 
 * wamp 
 * source insight 
@@ -97,6 +104,7 @@
 * sqlmap 
 * burpsuite 
 * wireshark 
+* fiddler
 * OD 
 * IDAPRO 
 * OWASP Mantra Janus
@@ -117,7 +125,10 @@
 
 * [微软的签名检查命令行工具sigcheck](https://technet.microsoft.com/en-us/sysinternals/bb897441.aspx) 
 * [微软的命令行校验工具fciv](https://support.microsoft.com/zh-cn/help/841290/availability-and-description-of-the-file-checksum-integrity-verifier-utility) 
-* HXD十六进制编辑器  
+* HXD十六进制编辑器 
+* 截图工具[snipaste](https://zh.snipaste.com/download.html) 
+* 硬件信息检测[CPU-Z](http://dl.pconline.com.cn/html_2/1/60/id=786&pn=0.html)
+
 
  <h2 id="toolOnline">好的在线工具</h2>  
  
