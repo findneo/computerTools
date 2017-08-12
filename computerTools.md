@@ -22,6 +22,7 @@
 * 自动搜索影片字幕，射手影音[splayer](http://www.splayer.org/)  
 * 自动调节电脑屏幕色温，为革命，保护视力 ~~[f.lux](https://justgetflux.com/)~~  win10创意者更新中已集成到系统  
 * 定时提醒休息[护眼啦](http://www.443w.com/hu/) 
+* 定时提醒休息[eyefoo](http://www.eyefoo.com/)
 * 邮箱客户端 foxmail
 * 像win10自带输入法一样文明的[加加输入法](http://dir.jjol.cn/Pyjj/index.aspx)，适用于win7/vista,虚拟机必备 
 * [7zip](http://www.7-zip.org/) 
