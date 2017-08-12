@@ -29,8 +29,10 @@
 * win10锁屏壁纸存放的文件夹(C:\Users\ReplaceMeWithYourUsername\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets) 
 * 世界上最快的浏览器[chrome](http://www.google.cn/chrome/browser/desktop/index.html),能过墙的话用起来更舒心  
     * [github目录树查看](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)  
+    * octotree,逛gayhub必备
     * [adblock](https://chrome.google.com/webstore/search/adblock)  
-    * cookiesmanager  
+    * cookiesmanager 
+    * shodan
 	* [listen1](https://github.com/listen1/listen1_chrome_extension)集成多平台歌源，下载压缩包并解压后以chrome开发者模式加载
 	* [tamperMonkey](http://tampermonkey.net/index.php?version=4.2.7&ext=dhdg&show=dhdg)
         * 脚本 [有道取词1.4](https://greasyfork.org/zh-CN/scripts/12758-youdaodict)  
