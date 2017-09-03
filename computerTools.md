@@ -11,9 +11,9 @@
 * 本地文件搜索[everything](http://www.voidtools.com/)
 * 本地文档全文搜索[agentransack](https://www.mythicsoft.com/agentransack/download)  
 * 轻量却强大的文本编辑器[notepad++](https://notepad-plus-plus.org/) 
-	* markdownviewer++可能是我用得最满意的md编辑器了 
-	* php autocompletion
-	* emmet
+  * markdownviewer++可能是我用得最满意的md编辑器了 
+  * php autocompletion
+  * emmet
 * Resilio Sync 就像，不限容，不限速，无审查的云盘  
 * teleport ultra全站克隆到本地 
 * 程序彻底卸载[iobitUninstaller](https://iobit-uninstaller.en.softonic.com/)  
@@ -33,8 +33,8 @@
     * [adblock](https://chrome.google.com/webstore/search/adblock)  
     * cookiesmanager 
     * shodan
-	* [listen1](https://github.com/listen1/listen1_chrome_extension)集成多平台歌源，下载压缩包并解压后以chrome开发者模式加载
-	* [tamperMonkey](http://tampermonkey.net/index.php?version=4.2.7&ext=dhdg&show=dhdg)
+    * [listen1](https://github.com/listen1/listen1_chrome_extension)集成多平台歌源，下载压缩包并解压后以chrome开发者模式加载
+    * [tamperMonkey](http://tampermonkey.net/index.php?version=4.2.7&ext=dhdg&show=dhdg)
         * 脚本 [有道取词1.4](https://greasyfork.org/zh-CN/scripts/12758-youdaodict)  
         * [自己探索](https://greasyfork.org/zh-CN/scripts/)
 * firefox
@@ -52,7 +52,7 @@
     * AutoProxy  
     * NoScript  
     * Live Http Header重放功能  
-<h2 id="study">学习相关类</h2> 
+      <h2 id="study">学习相关类</h2> 
 
 * [印象笔记](https://www.yinxiang.com/) 
 * 小巧好用的pdf阅读器[sumatraPdf](https://www.sumatrapdfreader.org/free-pdf-reader.html) 
@@ -72,7 +72,7 @@
 * visual studio code 
 * [sublimeText](http://www.sublimetext.com/) 
     * 插件HTML-CSS-JS Prettify 
-	* jedi ：python自动补全
+    * jedi ：python自动补全
     * Localization汉化 
     * ConvertToUTF8解决编码问题 
     * Bracket Highlighter匹配括号，引号和html标签。 
@@ -85,7 +85,7 @@
 * real VNC
 * xshell 
 * secureCRT
-* putty 
+* [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) 
 * wamp 
 * source insight 
 * matlab 
@@ -96,7 +96,7 @@
 * linux 
     * fish shell 
     * zsh shell 
- <h2 id="sec">安全类</h2> 
+       <h2 id="sec">安全类</h2> 
 
 * winhex 
 * advanced zip password recovery 
@@ -116,7 +116,7 @@
 * virtual box开源的虚拟机软件，内存占用较小
 * vmware 
     * kali 
-	* backtrack 
+    * backtrack 
     * 52pojie虚拟机 
     * xampp+dvwa 
     * Metasploitable-linux 
@@ -124,7 +124,7 @@
     * SEEDUbuntu 
     * web for pentester 
     * WebGoat-OWASP_standard_win32 
-<h2 id="mini">小工具</h2>  
+      <h2 id="mini">小工具</h2>  
 
 * [微软的签名检查命令行工具sigcheck](https://technet.microsoft.com/en-us/sysinternals/bb897441.aspx) 
 * [微软的命令行校验工具fciv](https://support.microsoft.com/zh-cn/help/841290/availability-and-description-of-the-file-checksum-integrity-verifier-utility) 
@@ -134,7 +134,7 @@
 
 
  <h2 id="toolOnline">好的在线工具</h2>  
- 
+
 *  [在线markdown协作](https://hackmd.io/)
 
 <h2 id="other">其他【未尝试或目前没有使用】</h2> 
