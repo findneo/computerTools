@@ -27,7 +27,7 @@
 * 像win10自带输入法一样文明的[加加输入法](http://dir.jjol.cn/Pyjj/index.aspx)，适用于win7/vista,虚拟机必备 
 * [7zip](http://www.7-zip.org/) 
 * win10锁屏壁纸存放的文件夹(C:\Users\ReplaceMeWithYourUsername\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets) 
-* 世界上最快的浏览器[chrome](http://www.google.cn/chrome/browser/desktop/index.html),能过墙的话用起来更舒心  
+* 世界上最快的浏览器[chrome](http://www.google.cn/chrome/browser/desktop/index.html),[原装](https://www.google.com/chrome/browser/desktop/index.html?hl=en)能过墙的话用起来更舒心  
     * [github目录树查看](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)  
     * octotree,逛gayhub必备
     * [adblock](https://chrome.google.com/webstore/search/adblock)  
@@ -53,7 +53,6 @@
     * NoScript  
     * Live Http Header重放功能  
       <h2 id="study">学习相关类</h2> 
-
 * [印象笔记](https://www.yinxiang.com/) 
 * 小巧好用的pdf阅读器[sumatraPdf](https://www.sumatrapdfreader.org/free-pdf-reader.html) 
 * [福昕(xin)pdf阅读器](https://www.foxitsoftware.cn/downloads/) 
