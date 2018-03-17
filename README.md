@@ -1,4 +1,4 @@
-> 带目录版本 https://findneo.github.io/2017/11/computer-tools/
+> 带目录版本 http://findneo.tech/171103ComputerTools/
 
 ### 系统优化类
 
